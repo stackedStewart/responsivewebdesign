@@ -34,6 +34,7 @@ body {
   padding: 20px 10px;
   max-width: 1400px;
   margin: 0 auto;
+  gap: 16px; /* adjusts the gap between images*/
 }
 
 /* Setting max-width, and adjusting heights */
@@ -42,4 +43,11 @@ body {
   width: 100%;
   max-width: 350px;
   height: 300px;
+  object-fit: cover; /*helps adjust pics that are distorted*/
+  border-radius: 20px;
+}
+
+.gallery::after {
+     content: "";
+     width: 350px;
 }
