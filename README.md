@@ -6,5 +6,6 @@
 ### nutrition-label ~ finished
 
 ### Cafe menu ~ finished
+### Registraton form ~ finished
 
 ##### 19/06/2023
