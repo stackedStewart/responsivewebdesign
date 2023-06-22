@@ -21,6 +21,7 @@ body {
 
 img {
   display: block;
+  border: #000; 
 }
 
 #image {
@@ -28,4 +29,5 @@ img {
   margin: 0 auto 0 auto;
   max-width: 25%;
   height: auto;
+  
 }
