@@ -12,9 +12,30 @@ body {
      z-index: -1;
 }
 
+#offwhite-character {
+     width: 300px;
+     height: 550px;
+     background-color: GhostWhite;
+     position: absolute;
+     top: 20%;
+     left: 17.5%;
+}
+
 .eyes {
      width: 35px;
      height: 20px;
      background-color: #8B4513;
      border-radius: 20px 50%;
+}
+
+.right {
+     Position: absolute;
+     top: 15px;
+     right: 30px
+}
+
+.left {
+     position: absolute;
+     top: 15px;
+     left: 30px;
 }
