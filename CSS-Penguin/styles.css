@@ -47,6 +47,10 @@ body {
   z-index: 4;
 }
 
+.penguin * {
+  position: absolute;
+}
+
 .penguin-head {
      height: 45%;
      width: 50%;
