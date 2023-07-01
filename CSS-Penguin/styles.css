@@ -206,6 +206,7 @@ body {
   left: 5%;
   transform-origin: top left;
   transform: rotate(130deg) scaleX(-1);
+  animation: wave 3s linear infinite;
 }
 
 .arm.right {
@@ -215,20 +216,17 @@ body {
 }
 
 @keyframes wave {
-   10% {
-    transform: rotate(10deg);
+  10% {
+    transform: rotate(110deg) scaleX(-1);
   }
-
   20% {
-    transform: rotate(15deg);
+    transform: rotate(130deg) scaleX(-1);
   }
-
   30% {
-    transform: rotate(20deg);
+    transform: rotate(110deg) scaleX(-1);
   }
-
   40% {
-    transform: rotate(25deg);
+    transform: rotate(130deg) scaleX(-1);
   }
 }
 
