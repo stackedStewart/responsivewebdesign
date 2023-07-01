@@ -198,6 +198,7 @@ body {
   height: 60%;
   background: linear-gradient(90deg, var(--penguin-skin), rgb(209, 210, 199));
   border-radius: 30% 30% 30% 120%;
+  z-index: -1;
 }
 
 .arm.left {
@@ -211,6 +212,24 @@ body {
   top: 0%;
   right: -5%;
   transform: rotate(-45deg);
+}
+
+@keyframes wave {
+   10% {
+    transform: rotate(10deg);
+  }
+
+  20% {
+    transform: rotate(15deg);
+  }
+
+  30% {
+    transform: rotate(20deg);
+  }
+
+  40% {
+    transform: rotate(25deg);
+  }
 }
 
 .foot {
