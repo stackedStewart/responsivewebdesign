@@ -1,9 +1,9 @@
 # Repo for responsive webdesign path on freecodecamp
 
-### Intermediate CSS doing a picasso painting ~ currently doing
+### Intermediate CSS doing a picasso painting ~ Finished
 ### Survey-form ~ currently doing
 
-### Xbox 360 tibute page ~ Currently doing
+### Xbox 360 tibute page ~ Finished
 ### flexbox cat photos ~ finished
 
 ### nutrition-label ~ finished
@@ -12,4 +12,4 @@
 
 ### Registraton form ~ finished
 
-##### 29/06/2023
+##### 01/07/2023
