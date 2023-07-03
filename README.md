@@ -1,7 +1,9 @@
 # Repo for responsive webdesign path on freecodecamp
 
+
+### Front End Dev Libraries with Bootsrap on the cat app
 ### Intermediate CSS doing a picasso painting ~ Finished
-### Survey-form ~ currently doing
+
 
 ### Xbox 360 tibute page ~ Finished
 ### flexbox cat photos ~ finished
